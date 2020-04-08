@@ -124,6 +124,8 @@ function hello(){}
 const hello1 = function (){}
 const hello2 = () => {}
 
+
+
 // 2
 function add (first: number, second: number):number {
   return first + second
